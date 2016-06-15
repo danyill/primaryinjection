@@ -1,0 +1,10 @@
+.snapshots
+*.term
+.sage
+.bashrc
+.forever
+.bash_profile
+*.sage-chat
+.smc
+.trash
+
